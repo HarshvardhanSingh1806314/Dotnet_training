@@ -57,10 +57,7 @@ namespace Assignment1
         // function to calculate sum of two numbers
         static int CalculateSum(int num1, int num2)
         {
-            if (num1 == num2)
-                return (num1 + num2) * 3;
-            else
-                return num1 + num2;
+            return num1 == num2 ? (num1 + num2) * 3 : num1 + num2;
         }
         static void Main(string[] args)
         {
