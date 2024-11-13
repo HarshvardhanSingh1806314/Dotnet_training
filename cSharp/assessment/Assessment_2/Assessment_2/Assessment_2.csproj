@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assessment_2.ExceptionDriver</StartupObject>
+    <StartupObject>Assessment_2.SortBasedOnPrice</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
