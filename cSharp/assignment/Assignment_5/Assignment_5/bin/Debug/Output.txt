@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file
+Writing array of strings to a file
+c# makes it easy to interact with files
