@@ -1,0 +1,6 @@
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\bin\Debug\TicketConcession.pdb
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.csproj.AssemblyReference.cache
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.csproj.CoreCompileInputs.cache
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.pdb
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\bin\Debug\TicketConcession.exe
+C:\Users\harshvardhansi\Dotnet_training\cSharp\assignment\Assignment_6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.exe

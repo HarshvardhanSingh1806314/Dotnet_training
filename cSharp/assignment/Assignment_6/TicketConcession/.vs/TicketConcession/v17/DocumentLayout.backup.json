@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1642A76B-CB68-4A38-835D-1C8FE9018739}|TicketConcession\\TicketConcession.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_6\\ticketconcession\\ticketconcession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1642A76B-CB68-4A38-835D-1C8FE9018739}|TicketConcession\\TicketConcession.csproj|solutionrelative:ticketconcession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TicketConcession||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1642A76B-CB68-4A38-835D-1C8FE9018739}|TicketConcession\\TicketConcession.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_6\\ticketconcession\\ticketconcession\\ticketconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1642A76B-CB68-4A38-835D-1C8FE9018739}|TicketConcession\\TicketConcession.csproj|solutionrelative:ticketconcession\\ticketconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1642A76B-CB68-4A38-835D-1C8FE9018739}|TicketConcession\\TicketConcession.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_6\\ticketconcession\\ticketconcession\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketConcession",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\TicketConcession.csproj",
+              "RelativeDocumentMoniker": "TicketConcession\\TicketConcession.csproj",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\TicketConcession.csproj",
+              "RelativeToolTip": "TicketConcession\\TicketConcession.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-17T07:34:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\Program.cs",
+              "RelativeDocumentMoniker": "TicketConcession\\Program.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\Program.cs",
+              "RelativeToolTip": "TicketConcession\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:31:52.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketConcession.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\TicketConcession.cs",
+              "RelativeDocumentMoniker": "TicketConcession\\TicketConcession.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_6\\TicketConcession\\TicketConcession\\TicketConcession.cs",
+              "RelativeToolTip": "TicketConcession\\TicketConcession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:21:39.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
