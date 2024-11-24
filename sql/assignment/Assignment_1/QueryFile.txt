@@ -1,0 +1,110 @@
+use ITFirmDB
+
+CREATE queries
+
+-- creating clients table
+create table Clients (
+	clientID int primary key,
+	client_name varchar(40) not null,
+	addrs varchar(30),
+	email varchar(30) unique,
+	phone int,
+	business varchar(20)
+)
+
+-- creating departments table
+create table Departments(
+	deptNo int primary key,
+	deptName varchar(15) not null,
+	loc varchar(20)
+)
+
+-- creating employees table
+create table Employees(
+	empNo int primary key,
+	empName varchar(20) not null,
+	job varchar(15),
+	salary int check(salary > 0),
+	deptNo int references Departments(deptNo)
+)
+
+-- creating projects table
+create table Projects(
+	projectId int primary key,
+	descr varchar(30) not null,
+	startDate date,
+	plannedEndDate date,
+	actualEndDate date check(actualEndDate > PlannedEndDate,
+	budget int check(budget > 0),
+	clientId int references Client(clientID)
+)
+
+-- creating empProjectsTasks table
+create table EmpProjectTasks(
+	projectID int references Projects(projectId),
+	empNo int references Employees(empNo),
+	startDate date,
+	endDate date,
+	task varchar(25) not null,
+	status varchar(15) not null,
+	primary key(projectID, empNo),
+)
+
+INSERT queries
+
+-- inserting into clients table
+insert into Clients values 
+(1001, 'ACME Utilities', 'Noida', 'contact@acmeutil.com', 9567880032, 'Manufacturing'),
+(1002, 'Trackon Consultants', 'Mumbai', 'consult@trackon.com', 8734210090, 'Consultant'),
+(1003, 'MoneySaver Distributors', 'Kolkata', 'save@moneysaver.com', 7799886655, 'Reseller'),
+(1004, 'Lawful Corp', 'Chennai', 'justice@lawful.com', 9210342219, 'Professional');
+
+-- inserting into departments table
+insert into Departments values
+(10, 'Design', 'Pune'),
+(20, 'Development', 'Pune'),
+(30, 'Testing', 'Mumbai'),
+(40, 'Document', 'Mumbai');
+
+-- inserting into employees table
+insert into Employees values
+(7001, 'Sandeep', 'Analyst', 25000, 10),
+(7002, 'Rajesh', 'Designer', 30000, 10),
+(7003, 'Madhav', 'Developer', 40000, 20),
+(7004, 'Manoj', 'Developer', 40000, 20),
+(7005, 'Abhay', 'Designer', 35000, 10),
+(7006, 'Uma', 'Tester', 30000, 30),
+(7007, 'Gita', 'Tech. Writer', 30000, 40),
+(7008, 'Priya', 'Tester', 35000, 30),
+(7009, 'Nutan', 'Developer', 45000, 20),
+(7010, 'Smita', 'Analyst', 20000, 10),
+(7011, 'Anand', 'Project Mgr', 65000, 10);
+
+-- inserting into projects table
+insert into Projects values
+(401, 'Inventory', TO_DATE('01-APR-11', 'DD-MON-YY'), TO_DATE('01-OCT-11', 'DD-MON-YY'), TO_DATE('31-OCT-11', 'DD-MON-YY'), 150000, 1001),
+(402, 'Accounting', TO_DATE('01-AUG-11', 'DD-MON-YY'), TO_DATE('01-JAN-12', 'DD-MON-YY'), NULL, 500000, 1002),
+(403, 'Payroll', TO_DATE('01-OCT-11', 'DD-MON-YY'), TO_DATE('31-DEC-11', 'DD-MON-YY'), NULL, 75000, 1003),
+(404, 'Contact Mgmt', TO_DATE('01-NOV-11', 'DD-MON-YY'), TO_DATE('31-DEC-11', 'DD-MON-YY'), NULL, 50000, 1004);
+
+--inserting into empProjectsTable
+insert into EmpProjectTasks VALUES 
+(401, 7001, TO_DATE('01-APR-11', 'DD-MON-YY'), TO_DATE('20-APR-11', 'DD-MON-YY'), 'System Analysis', 'Completed'),
+(401, 7002, TO_DATE('21-APR-11', 'DD-MON-YY'), TO_DATE('30-MAY-11', 'DD-MON-YY'), 'System Design', 'Completed'),
+(401, 7003, TO_DATE('01-JUN-11', 'DD-MON-YY'), TO_DATE('15-JUL-11', 'DD-MON-YY'), 'Coding', 'Completed'),
+(401, 7004, TO_DATE('18-JUL-11', 'DD-MON-YY'), TO_DATE('01-SEP-11', 'DD-MON-YY'), 'Coding', 'Completed'),
+(401, 7006, TO_DATE('03-SEP-11', 'DD-MON-YY'), TO_DATE('15-SEP-11', 'DD-MON-YY'), 'Testing', 'Completed'),
+(401, 7009, TO_DATE('18-SEP-11', 'DD-MON-YY'), TO_DATE('05-OCT-11', 'DD-MON-YY'), 'Code Change', 'Completed'),
+(401, 7008, TO_DATE('06-OCT-11', 'DD-MON-YY'), TO_DATE('16-OCT-11', 'DD-MON-YY'), 'Testing', 'Completed'),
+(401, 7007, TO_DATE('06-OCT-11', 'DD-MON-YY'), TO_DATE('22-OCT-11', 'DD-MON-YY'), 'Documentation', 'Completed'),
+(401, 7011, TO_DATE('22-OCT-11', 'DD-MON-YY'), TO_DATE('31-OCT-11', 'DD-MON-YY'), 'Sign off', 'Completed'),
+(402, 7010, TO_DATE('01-AUG-11', 'DD-MON-YY'), TO_DATE('20-AUG-11', 'DD-MON-YY'), 'System Analysis', 'Completed'),
+(402, 7002, TO_DATE('22-AUG-11', 'DD-MON-YY'), TO_DATE('30-SEP-11', 'DD-MON-YY'), 'System Design', 'Completed'),
+(402, 7004, TO_DATE('01-OCT-11', 'DD-MON-YY'), NULL, 'Coding', 'In Progress');
+
+SELECT queries
+select * from Clients
+select * from Departments
+select * from Employees
+select * from Projects
+select * from EmpProjecTasks
