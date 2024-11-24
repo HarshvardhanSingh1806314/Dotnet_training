@@ -3,22 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\assessment_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assessment\\assessment_2\\assessment_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|solutionrelative:assessment_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assessment_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\assessment_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|solutionrelative:assessment_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assessment\\assessment_2\\assessment_2\\negativeintegerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|solutionrelative:assessment_2\\negativeintegerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assessment_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assessment\\assessment_2\\assessment_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\assessment_2\\negativeintegerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A61465E-CD6B-4586-AB54-42D38AB6B769}|Assessment_2\\Assessment_2.csproj|solutionrelative:assessment_2\\negativeintegerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,20 +37,18 @@
               "RelativeToolTip": "Assessment_2\\NegativeIntegerException.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:59:59.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:59:59.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Assessment_2",
               "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\Assessment_2\\Assessment_2.csproj",
               "RelativeDocumentMoniker": "Assessment_2\\Assessment_2.csproj",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\Assessment_2\\Assessment_2.csproj",
               "RelativeToolTip": "Assessment_2\\Assessment_2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-13T04:54:18.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:54:18.578Z"
             },
             {
               "$type": "Document",
@@ -63,20 +58,20 @@
               "RelativeDocumentMoniker": "Assessment_2\\Product.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\Assessment_2\\Product.cs",
               "RelativeToolTip": "Assessment_2\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:40:19.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\Assessment_2\\Student.cs",
               "RelativeDocumentMoniker": "Assessment_2\\Student.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_2\\Assessment_2\\Student.cs",
               "RelativeToolTip": "Assessment_2\\Student.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwC4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:14:24.702Z",
               "EditorCaption": ""

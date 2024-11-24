@@ -7,18 +7,15 @@
       "RelativeMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|solutionrelative:assignment_5\\countlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment_5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_5\\assignment_5\\stringstofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\assignment_5\\stringstofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|solutionrelative:assignment_5\\stringstofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_5\\assignment_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\assignment_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|solutionrelative:assignment_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7589C801-8EA0-4C97-A150-370D4CF2A139}|Assignment_5\\Assignment_5.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assignment\\assignment_5\\assignment_5\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment_5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +35,44 @@
               "RelativeDocumentMoniker": "Assignment_5\\CountLines.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\CountLines.cs",
               "RelativeToolTip": "Assignment_5\\CountLines.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:18:53.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Assignment_5",
               "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\Assignment_5.csproj",
               "RelativeDocumentMoniker": "Assignment_5\\Assignment_5.csproj",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\Assignment_5.csproj",
               "RelativeToolTip": "Assignment_5\\Assignment_5.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-14T05:15:14.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T05:15:14.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StringsToFile.cs",
               "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\StringsToFile.cs",
               "RelativeDocumentMoniker": "Assignment_5\\StringsToFile.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\StringsToFile.cs",
               "RelativeToolTip": "Assignment_5\\StringsToFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:06:10.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\Book.cs",
               "RelativeDocumentMoniker": "Assignment_5\\Book.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assignment\\Assignment_5\\Assignment_5\\Book.cs",
               "RelativeToolTip": "Assignment_5\\Book.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAApwD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T04:49:16.315Z",
               "EditorCaption": ""
