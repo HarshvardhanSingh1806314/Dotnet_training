@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43827FF6-E425-4906-AA36-7633870CA0CC}|Assessment_4\\Assessment_4.csproj|c:\\users\\harshvardhansi\\dotnet_training\\csharp\\assessment\\assessment_4\\assessment_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43827FF6-E425-4906-AA36-7633870CA0CC}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_4\\Assessment_4\\Program.cs",
+              "RelativeDocumentMoniker": "Assessment_4\\Program.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\cSharp\\assessment\\Assessment_4\\Assessment_4\\Program.cs",
+              "RelativeToolTip": "Assessment_4\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:29:30.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
