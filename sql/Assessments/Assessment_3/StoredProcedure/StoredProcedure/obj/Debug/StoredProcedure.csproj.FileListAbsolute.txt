@@ -1,0 +1,7 @@
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe.config
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.pdb
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csproj.AssemblyReference.cache
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.exe
+C:\Users\harshvardhansi\Dotnet_training\sql\Assessments\Assessment_3\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.pdb
