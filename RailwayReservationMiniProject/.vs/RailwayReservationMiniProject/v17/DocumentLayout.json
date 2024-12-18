@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57142DA-3CA5-4CAF-AC99-66F9EDEB50BA}|Utility\\Utility.csproj|c:\\users\\harshvardhansi\\dotnet_training\\railwayreservationminiproject\\utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57142DA-3CA5-4CAF-AC99-66F9EDEB50BA}|Utility\\Utility.csproj|solutionrelative:utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A67E58-10DE-4237-9D34-A2F5E1D90EB0}|UserFunctionalities\\UserFunctionalities.csproj|c:\\users\\harshvardhansi\\dotnet_training\\railwayreservationminiproject\\userfunctionalities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A67E58-10DE-4237-9D34-A2F5E1D90EB0}|UserFunctionalities\\UserFunctionalities.csproj|solutionrelative:userfunctionalities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A39270-5982-4EE5-A9C4-7EEC88D302CB}|Authentication\\Authentication.csproj|c:\\users\\harshvardhansi\\dotnet_training\\railwayreservationminiproject\\authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A39270-5982-4EE5-A9C4-7EEC88D302CB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F24242-2395-4F0E-A376-CB6585C7D802}|RailwayReservationMiniProject\\RailwayReservationMiniProject.csproj|c:\\users\\harshvardhansi\\dotnet_training\\railwayreservationminiproject\\railwayreservationminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F24242-2395-4F0E-A376-CB6585C7D802}|RailwayReservationMiniProject\\RailwayReservationMiniProject.csproj|solutionrelative:railwayreservationminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\Utility\\Class1.cs",
+              "RelativeDocumentMoniker": "Utility\\Class1.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\Utility\\Class1.cs",
+              "RelativeToolTip": "Utility\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:17:52.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\UserFunctionalities\\Class1.cs",
+              "RelativeDocumentMoniker": "UserFunctionalities\\Class1.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\UserFunctionalities\\Class1.cs",
+              "RelativeToolTip": "UserFunctionalities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:17:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\Authentication\\Class1.cs",
+              "RelativeDocumentMoniker": "Authentication\\Class1.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\Authentication\\Class1.cs",
+              "RelativeToolTip": "Authentication\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:17:14.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\RailwayReservationMiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "RailwayReservationMiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\RailwayReservationMiniProject\\RailwayReservationMiniProject\\Program.cs",
+              "RelativeToolTip": "RailwayReservationMiniProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:40:45.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

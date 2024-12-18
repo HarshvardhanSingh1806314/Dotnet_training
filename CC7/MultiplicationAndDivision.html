@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Multiplication And Division</title>
+</head>
+<body>
+    <div class="firstNumber">
+        <label>1st Number: </label>
+        <input type="text" id="num1" />
+    </div>
+    <div class="secondNumber">
+        <label>2nd Number: </label>
+        <input type="text" id="num2" />
+    </div>
+    <div class="Buttons">
+        <button type="button" onclick="Multiply()">Multiply</button>
+        <button type="button" onclick="Divide()">Divide</button>
+    </div>
+    <p id="result"></p>
+    <script type="text/javascript">
+        function Multiply() {
+            var num1 = document.getElementById("num1")
+            var num2 = document.getElementById("num2")
+            var result = document.getElementById("result")
+            var multiplicationResult = num1 * num2
+            result.innerHTML = "The result is: " + multiplicationResult;
+            console.log(num1);
+        }
+
+        function Divide() {
+            var num1 = document.getElementById("num1");
+            var num2 = documnet.getElementById("num2");
+            var result = document.getElementById("result");
+            if (num2 == 0) {
+                result.innerHTML = "Cannot divide by 0";
+                return
+            }
+            var divideResult = num1 / num2;
+            result.innerHTML = "The result is: " + divideResult
+        }
+    </script>
+</body>
+</html>
