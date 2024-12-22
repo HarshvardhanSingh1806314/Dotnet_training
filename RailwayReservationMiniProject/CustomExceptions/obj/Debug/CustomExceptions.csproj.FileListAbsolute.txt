@@ -1,0 +1,6 @@
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\bin\Debug\CustomExceptions.dll
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\obj\Debug\CustomExceptions.csproj.AssemblyReference.cache
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\obj\Debug\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\obj\Debug\CustomExceptions.dll
+C:\Users\harshvardhansi\Dotnet_training\RailwayReservationMiniProject\CustomExceptions\obj\Debug\CustomExceptions.pdb

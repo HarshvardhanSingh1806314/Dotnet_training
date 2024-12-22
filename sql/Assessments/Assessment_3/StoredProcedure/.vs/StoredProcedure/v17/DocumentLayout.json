@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DAB235FA-BC92-4589-BCC9-91B21A3D3ABA}|StoredProcedure\\StoredProcedure.csproj|solutionrelative:storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAB235FA-BC92-4589-BCC9-91B21A3D3ABA}|StoredProcedure\\StoredProcedure.csproj|c:\\users\\harshvardhansi\\dotnet_training\\sql\\assessments\\assessment_3\\storedprocedure\\storedprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DAB235FA-BC92-4589-BCC9-91B21A3D3ABA}|StoredProcedure\\StoredProcedure.csproj|C:\\Users\\harshvardhansi\\Dotnet_training\\sql\\Assessments\\Assessment_3\\StoredProcedure\\storedprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DAB235FA-BC92-4589-BCC9-91B21A3D3ABA}|StoredProcedure\\StoredProcedure.csproj|solutionrelative:storedprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "StoredProcedure\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-11T05:39:01.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T05:39:01.33Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "StoredProcedure\\Program.cs",
               "ToolTip": "C:\\Users\\harshvardhansi\\Dotnet_training\\sql\\Assessments\\Assessment_3\\StoredProcedure\\StoredProcedure\\Program.cs",
               "RelativeToolTip": "StoredProcedure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T05:37:58.924Z",
               "EditorCaption": ""
