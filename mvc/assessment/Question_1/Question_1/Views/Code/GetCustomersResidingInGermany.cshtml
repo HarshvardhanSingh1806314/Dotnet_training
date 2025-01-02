@@ -1,0 +1,83 @@
+﻿@model List<Question_1.Models.Customer>
+@{
+    ViewBag.Title = "GetCustomersResidingInGermany";
+}
+
+<h2>GetCustomersResidingInGermany</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].CustomerID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].ContactName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].ContactTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].Region)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].PostalCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].Country)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model[0].Fax)
+        </th>
+    </tr>
+
+    @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CustomerID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CompanyName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ContactName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ContactTitle)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.City)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Region)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PostalCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Country)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fax)
+                    </td>
+                </tr>
+            }
+</table>

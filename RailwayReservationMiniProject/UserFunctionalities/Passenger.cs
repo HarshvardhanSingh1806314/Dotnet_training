@@ -228,9 +228,15 @@ namespace UserFunctionalities
                     );
                 }
             }
+            catch(FormatException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Thread.Sleep(1000);
+            }
             catch (Exception ex)
             {
                 Console.WriteLine(ex);
+                Thread.Sleep(1000);
             }
             finally
             {
@@ -256,22 +262,6 @@ namespace UserFunctionalities
                 while(reader.Read())
                 {
                     ticketStatusId = reader[0].ToString();
-                }
-                sqlCommand.Parameters.Clear();
-                reader.Close();
-
-                // fetching the berthNo, berthClass and trainNo
-                query = "select berthNo, berthClass, trainNo from Tickets where pnrNo = @pnrNo";
-                sqlCommand.CommandText = query;
-                sqlCommand.Parameters.AddWithValue("@pnrNo", pnrNo);
-                reader = sqlCommand.ExecuteReader();
-                int berthNo = 0, trainNo = 0;
-                string berthClass = null;
-                while(reader.Read())
-                {
-                    berthNo = int.Parse(reader[0].ToString());
-                    berthClass = reader[1].ToString();
-                    trainNo = int.Parse(reader[2].ToString());
                 }
                 sqlCommand.Parameters.Clear();
                 reader.Close();
@@ -338,6 +328,7 @@ namespace UserFunctionalities
                             break;
                         default:
                             Console.WriteLine("Invalid Choice");
+                            Thread.Sleep(1000);
                             break;
                     }
                 }
@@ -482,7 +473,7 @@ namespace UserFunctionalities
                                 {
                                     Console.WriteLine("Ticket Booking Failed.\nTry Again Later!");
                                 }
-                                Thread.Sleep(1000);
+                                Thread.Sleep(2000);
                                 break;
                             case 2:
                                 Console.Clear();
@@ -490,6 +481,10 @@ namespace UserFunctionalities
                                 DisplayAllConfirmedTickets();
                                 Console.Write("Enter PnrNo. of Ticket to Cancel: ");
                                 pnrNo = int.Parse(Console.ReadLine().Trim());
+                                if(pnrNo < 1000000000)
+                                {
+                                    throw new FormatException("Invalid PNR Number");
+                                }
                                 if (!_auth.VerifyAccessToken(_token))
                                 {
                                     _auth.RefereshAccessToken(_token);
@@ -518,6 +513,7 @@ namespace UserFunctionalities
                                 break;
                             default:
                                 Console.WriteLine("Invalid Choice");
+                                Thread.Sleep(1000);
                                 break;
                         }
                     }

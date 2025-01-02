@@ -550,7 +550,7 @@ namespace UserFunctionalities
         {
             Console.Clear();
             Console.WriteLine("Press 1 to INSERT/UPDATE/DELETE Train Status Values");
-            Console.WriteLine("Press 2 to INSERT/DELETE Trains");
+            Console.WriteLine("Press 2 to INSERT/UPDATE/DELETE Trains");
             Console.WriteLine("Press 3 to INSERT/UPDATE/DELETE Distance Values");
             Console.WriteLine("Press 4 to INSERT/UPDATE/DELETE Berth Status Values");
             Console.WriteLine("Press 5 to INSERT/UPDATE/DELETE Berth Class Values");
@@ -637,6 +637,7 @@ namespace UserFunctionalities
                             break;
                         default:
                             Console.WriteLine("Invalid Choice");
+                            Thread.Sleep(1000);
                             break;
                     }
                 }
