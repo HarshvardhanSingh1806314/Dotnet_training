@@ -16,7 +16,7 @@ namespace Question_1
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}",
-                defaults: new { controller = "Code", action = "GetCustomersResidingInGermany" }
+                defaults: new { controller = "Code", action = "Index" }
             );
         }
     }

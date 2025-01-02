@@ -239,6 +239,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Code\GetCustomersResidingInGermany.cshtml" />
     <Content Include="Views\Code\GetCustomerDetailsWithId10248.cshtml" />
+    <Content Include="Views\Code\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

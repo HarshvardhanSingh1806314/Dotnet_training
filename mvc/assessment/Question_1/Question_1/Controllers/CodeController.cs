@@ -16,6 +16,11 @@ namespace Question_1.Controllers
             _db = new NorthwindEntities();
         }
 
+        public ActionResult Index()
+        {
+            return View();
+        }
+
         // GET: Code
         public ActionResult GetCustomersResidingInGermany()
         {
